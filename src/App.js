@@ -15,7 +15,7 @@ import Error from './components/Error';
 function App() {
   return (
     <ParallaxProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <ScrollToTop />
         <Switch>
           <Route exact path="/" component={Home} />
