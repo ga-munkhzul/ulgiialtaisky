@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ulgiialtaisky/static/css/main.0922cce4.chunk.css",
-    "main.js": "/ulgiialtaisky/static/js/main.23fd8860.chunk.js",
-    "main.js.map": "/ulgiialtaisky/static/js/main.23fd8860.chunk.js.map",
+    "main.js": "/ulgiialtaisky/static/js/main.493c100a.chunk.js",
+    "main.js.map": "/ulgiialtaisky/static/js/main.493c100a.chunk.js.map",
     "runtime-main.js": "/ulgiialtaisky/static/js/runtime-main.1262e4c9.js",
     "runtime-main.js.map": "/ulgiialtaisky/static/js/runtime-main.1262e4c9.js.map",
     "static/css/2.403ab2a7.chunk.css": "/ulgiialtaisky/static/css/2.403ab2a7.chunk.css",
-    "static/js/2.37ea9848.chunk.js": "/ulgiialtaisky/static/js/2.37ea9848.chunk.js",
-    "static/js/2.37ea9848.chunk.js.map": "/ulgiialtaisky/static/js/2.37ea9848.chunk.js.map",
+    "static/js/2.534dff88.chunk.js": "/ulgiialtaisky/static/js/2.534dff88.chunk.js",
+    "static/js/2.534dff88.chunk.js.map": "/ulgiialtaisky/static/js/2.534dff88.chunk.js.map",
     "index.html": "/ulgiialtaisky/index.html",
-    "precache-manifest.e06d33c16a4d92be0b08bc777e4d8809.js": "/ulgiialtaisky/precache-manifest.e06d33c16a4d92be0b08bc777e4d8809.js",
+    "precache-manifest.1bac77447d1eaccbd9d8446cc72174cb.js": "/ulgiialtaisky/precache-manifest.1bac77447d1eaccbd9d8446cc72174cb.js",
     "service-worker.js": "/ulgiialtaisky/service-worker.js",
     "static/css/2.403ab2a7.chunk.css.map": "/ulgiialtaisky/static/css/2.403ab2a7.chunk.css.map",
     "static/css/main.0922cce4.chunk.css.map": "/ulgiialtaisky/static/css/main.0922cce4.chunk.css.map",
-    "static/js/2.37ea9848.chunk.js.LICENSE.txt": "/ulgiialtaisky/static/js/2.37ea9848.chunk.js.LICENSE.txt",
+    "static/js/2.534dff88.chunk.js.LICENSE.txt": "/ulgiialtaisky/static/js/2.534dff88.chunk.js.LICENSE.txt",
     "static/media/01-greece.jpg": "/ulgiialtaisky/static/media/01-greece.088c91c8.jpg",
     "static/media/02-rome.jpg": "/ulgiialtaisky/static/media/02-rome.8ffe8e3e.jpg",
     "static/media/03-japan.jpg": "/ulgiialtaisky/static/media/03-japan.360bb4f4.jpg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.1262e4c9.js",
     "static/css/2.403ab2a7.chunk.css",
-    "static/js/2.37ea9848.chunk.js",
+    "static/js/2.534dff88.chunk.js",
     "static/css/main.0922cce4.chunk.css",
-    "static/js/main.23fd8860.chunk.js"
+    "static/js/main.493c100a.chunk.js"
   ]
 }

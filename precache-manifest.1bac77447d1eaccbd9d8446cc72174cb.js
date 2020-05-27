@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04a61838bfb6e2cd28cd565b8273dd17",
+    "revision": "3dfb68f06722a4812a62335bc40a6eca",
     "url": "/ulgiialtaisky/index.html"
   },
   {
-    "revision": "dd00891d428eac64ecd5",
+    "revision": "7f8c2d825428398af36a",
     "url": "/ulgiialtaisky/static/css/2.403ab2a7.chunk.css"
   },
   {
-    "revision": "0cd6c71e230b89cf2984",
+    "revision": "f47378383f043f8c8700",
     "url": "/ulgiialtaisky/static/css/main.0922cce4.chunk.css"
   },
   {
-    "revision": "dd00891d428eac64ecd5",
-    "url": "/ulgiialtaisky/static/js/2.37ea9848.chunk.js"
+    "revision": "7f8c2d825428398af36a",
+    "url": "/ulgiialtaisky/static/js/2.534dff88.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/ulgiialtaisky/static/js/2.37ea9848.chunk.js.LICENSE.txt"
+    "url": "/ulgiialtaisky/static/js/2.534dff88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cd6c71e230b89cf2984",
-    "url": "/ulgiialtaisky/static/js/main.23fd8860.chunk.js"
+    "revision": "f47378383f043f8c8700",
+    "url": "/ulgiialtaisky/static/js/main.493c100a.chunk.js"
   },
   {
     "revision": "3174346a01e5b57531ae",
